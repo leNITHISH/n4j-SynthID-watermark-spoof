@@ -1,0 +1,3 @@
+Position-aware spoof score: 0.98
+Naive spoof score: 0.33
+Random baseline: 0.57
